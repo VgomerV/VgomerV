@@ -12,9 +12,9 @@ I am considering vacancies for an intern, junior, part-time worker.
 * ✉️  You can contact me at [vgomer@list.ru](mailto:vgomer@list.ru) or telegram: [@VitalyVG]
 * 🧠 I'm learning JS
 -------------------------
-My education
-Studying at Hexlet school
-<a href="https://mnepu-ras.ru/">MNEPU</a>(Lawyer)
+### My education
+<p>Studying at Hexlet school</p>
+<p></p><a href="https://mnepu-ras.ru/">MNEPU</a>(Lawyer)</p>
 
 ### Skills
 
