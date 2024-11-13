@@ -9,7 +9,7 @@ I am open to participation in any projects!
 I am considering vacancies for an intern, junior, part-time worker.
 
 * 🌍  I'm based in Russia, Noginsk
-* ✉️  You can contact me at [titanium4ik777@gmail.com](mailto:vgomer@list.ru) or telegram: [@VitalyVG]
+* ✉️  You can contact me at [vgomer@list.ru](mailto:vgomer@list.ru) or telegram: [@VitalyVG]
 * 🧠 I'm learning JS
 -------------------------
 My education
