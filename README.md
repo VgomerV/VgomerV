@@ -15,7 +15,7 @@ I am considering vacancies for an intern, junior, part-time worker.
 ### My education
 <p>Studying at Hexlet school</p>
 <p></p><a href="https://mnepu-ras.ru/">MNEPU</a>(Lawyer)</p>
-
+-------------------------
 ### Skills
 
 <p align="left">
