@@ -44,5 +44,5 @@ Bootstrap, MVC, DOM API, HTTP API, Jest, npm, Eslint.
 * [Brain Games](https://github.com/VgomerV/frontend-project-44)
   <p>"Mind Games" is a set of five console games based on popular mobile apps for brain training. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.</p>
 
-  * [RSS Reader]([https://github.com/VgomerV/frontend-project-44](https://github.com/VgomerV/frontend-project-11))
+* [RSS Reader]([https://github.com/VgomerV/frontend-project-44](https://github.com/VgomerV/frontend-project-11))
   <p>Rss Reader is a service for aggregating RSS streams, with which it is convenient to read a variety of sources, for example, blogs. It allows you to add an unlimited number of RSS feeds, updates them itself and adds new records to the shared stream.</p>
