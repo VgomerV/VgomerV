@@ -3,10 +3,10 @@
 
 Beginner Frontend Developer
 -------------------------
-Hi. I am actively studying web technologies.
-I am striving to change my profession so that I can do what I really love and the work would bring pleasure and emotional motivation.
-I am open to participation in any projects!
-I am considering vacancies for an intern, junior, part-time worker.
+Hi. I am actively studying web technology. 
+I strive to change my profession so that I can do what I really love and work would bring pleasure and emotional motivation. 
+I am open to participate in any projects! 
+I consider vacancies for the front-end intern, junior developer, for remote work.
 
 * 🌍  I'm based in Russia, Noginsk
 * ✉️  You can contact me at [vgomer@list.ru](mailto:vgomer@list.ru) or telegram: [@VitalyVG]
